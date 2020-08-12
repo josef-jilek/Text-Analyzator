@@ -1,0 +1,2 @@
+# Text-Analyzator
+Analýza textu
